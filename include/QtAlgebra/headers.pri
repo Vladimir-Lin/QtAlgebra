@@ -1,0 +1,5 @@
+SYNCQT.HEADER_FILES = ../../include/QtAlgebra/qtalgebra.h
+SYNCQT.HEADER_CLASSES = ../../include/QtAlgebra/QtAlgebra
+SYNCQT.PRIVATE_HEADER_FILES =
+SYNCQT.QPA_HEADER_FILES = 
+SYNCQT.INJECTIONS = 
